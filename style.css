@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0x;
+}
+
+tr, td, th, table {
+    border: 5px solid black;
+}
+.classificacao{
+    padding-left: 40px;
+}
+table{
+    margin: 10px 350px;
+}
+h2{
+    margin-left: 400px;
+    margin-top: 5px;
+}
+h1{
+    margin-left: 300px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+body{
+    background-color: aquamarine;
+}
+
+.cor-de-fundo-br{
+    background-color: cadetblue;
+    color: rgb(170, 19, 19);
+}
+.cor-de-fundo-md{
+    background-color: cadetblue;
+    color: rgb(160, 19, 19);
+}
+tbody{
+    background-color: darkgray;
+}
